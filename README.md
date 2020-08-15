@@ -1,0 +1,22 @@
+# Practice Assignment 2
+
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gitdagray/js_practice01)
+
+**Complete the problems listed in the main.js** javascript file
+according to the instructions given in the comments.
+
+_DO NOT CHANGE any of the pre-existing code in main.js or any other files._
+
+To see your practice results score, click "Share" near the top left.
+Then click "Live App" and the copy button to copy the URL.
+Paste the URL into your browser address bar to check your work.
+
+Did you miss some?
+
+It's ok. Go back and make corrections. Then check your score again!
+
+### Academic Honesty
+
+**DO NOT COPY** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+
+This project is made public as an example.
