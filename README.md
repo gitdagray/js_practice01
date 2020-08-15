@@ -22,5 +22,3 @@ It's ok. Go back and make corrections. Then check your score again!
 ### Academic Honesty
 
 **DO NOT COPY** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
-
-This project is made public as an example.
