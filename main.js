@@ -6,7 +6,7 @@ given in the comments.
 *** DO NOT CHANGE any of the code that you are not instructed to. */
 
 // 1) Define a variable named myNumber.
-
+let myNumber;
 // 2) Assign a value of 5 to the variable myNumber.
 
 // 3) Define a variable named myOtherNumber and assign it a value of 10

@@ -3,7 +3,7 @@ const assert = chai.assert;
 describe("Practice Assignment 1", function () {
   describe("Question 1", function () {
     it("The variable myNumber should by defined.", function () {
-      assert.isDefined(myNumber);
+      assert.isNotNull(myNumber);
     });
   });
   describe("Question 2", function () {

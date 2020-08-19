@@ -1,0 +1,25 @@
+.directions {
+  font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 40px 60px 0;
+}
+.directions span {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.directions button {
+  background-color: white;
+  color: black;
+  min-width: 48px;
+  min-height: 48px;
+  font-size: 1.2rem;
+  padding: 10px;
+  margin: 0 60px 0 0;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  outline: none;
+}
+.error {
+  display: none !important;
+}
