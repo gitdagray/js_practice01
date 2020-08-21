@@ -19,6 +19,8 @@ Did you miss some?
 
 It's ok. Go back and make corrections. Then check your score again!
 
+When you are ready to submit your work, follow the instructions that are at the top of the score page.
+
 ### Academic Honesty
 
 **DO NOT COPY** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
