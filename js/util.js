@@ -24,10 +24,14 @@ document
       );
       const userId = await response.json();
       body.classList.remove("spinner");
-      alert(
-        "Success! You will want to write your User ID down.\nDon't lose it. You will need it to submit your assignments.\n\nUser ID: " +
-          userId._id
-      );
+      if (userId.message) {
+        alert(userId.message); //displays error
+      } else {
+        alert(
+          "Success! You will want to write your User ID down.\nDon't lose it. You will need it to submit your assignments.\n\nUser ID: " +
+            userId._id
+        );
+      }
     } catch (err) {
       body.classList.remove("spinner");
       alert(
