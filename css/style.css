@@ -1,0 +1,46 @@
+.spinner:before {
+  content: "";
+  box-sizing: border-box;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 100px;
+  width: 100px;
+  margin-top: -50px;
+  margin-left: -50px;
+  border-radius: 50%;
+  border: 8px solid #64a6fe;
+  border-top: 8px solid #036dfd;
+  animation: spinner 0.7s linear infinite;
+  z-index: 2;
+}
+@keyframes spinner {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.directions {
+  font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 40px 60px 0;
+}
+.directions span {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.directions button {
+  background-color: white;
+  color: black;
+  min-width: 48px;
+  min-height: 48px;
+  font-size: 1.2rem;
+  padding: 10px;
+  margin: 0 60px 0 0;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px 0 rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+  outline: none;
+}
+.error {
+  display: none !important;
+}
