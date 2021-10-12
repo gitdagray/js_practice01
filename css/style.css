@@ -19,6 +19,9 @@
     transform: rotate(360deg);
   }
 }
+code {
+  display: none !important;
+}
 .directions {
   font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 40px 60px 0;
