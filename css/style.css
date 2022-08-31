@@ -14,23 +14,28 @@
   animation: spinner 0.7s linear infinite;
   z-index: 2;
 }
+
 @keyframes spinner {
   to {
     transform: rotate(360deg);
   }
 }
+
 code {
   display: none !important;
 }
+
 .directions {
   font: 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 40px 60px 0;
+  margin: 70px 60px 0;
 }
+
 .directions span {
   color: blue;
   text-decoration: underline;
   cursor: pointer;
 }
+
 .directions button {
   background-color: white;
   color: black;
@@ -44,6 +49,7 @@ code {
   cursor: pointer;
   outline: none;
 }
+
 .error {
   display: none !important;
 }
