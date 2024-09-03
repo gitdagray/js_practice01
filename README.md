@@ -11,9 +11,9 @@ according to the instructions given in the comments.
 
 _DO NOT CHANGE any of the pre-existing code in main.js or any other files._
 
-To see your practice results score, click "Share" near the top left.
-Then click "Live App" and the copy button to copy the URL.
-Paste the URL into your browser address bar to check your work.
+To see your practice results score on Glitch, click "Preview" in the bottom toolbar. The preview has its own URL bar. You can copy that URL to view your assignment in another tab if you want. 
+
+Alternatively, you can run this practice assignment directly in VS Code. I recommend installing the [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) as a mock web server if you choose this alternate method.
 
 Did you miss some?
 
@@ -23,4 +23,4 @@ When you are ready to submit your work, follow the instructions that are at the 
 
 ### Academic Honesty
 
-**DO NOT COPY** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+**DO NOT COPY** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).

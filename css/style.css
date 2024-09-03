@@ -53,3 +53,7 @@ code {
 .error {
   display: none !important;
 }
+
+#newUserSection {
+  display: none;
+}
